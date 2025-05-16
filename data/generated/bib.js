@@ -1,0 +1,1 @@
+// your generated BibTeX JS data
